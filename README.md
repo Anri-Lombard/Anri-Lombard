@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Welcome image](https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif)
+<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" height="400" width="700">
 
 ### Project status:
-Open to any true (has projects done) builder! Fetch me on my [email](anri.m.lombard@gmail.com) and I'll merge the requests... 😃
+Open to any true (has projects done) builder! Fetch me on my [email](mailto:anri.m.lombard@gmail.com) and I'll merge the requests... 😃
