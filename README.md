@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Anri-Lombard/Anri-Lombard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Welcome image](https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif)
+
+### Project status:
+Open to any true (has projects done) builder! Fetch me on my [email](anri.m.lombard@gmail.com) and I'll merge the requests... 😃
