@@ -40,6 +40,6 @@ to my personal GitHub profile!
 <div align="center">
 <p>Food for thought:</p>
 <p>What's the object-orientated wa to get rich? __Inheritence__</p>
-<p>What do computers and air-conditioners have in common? **They're both useless when you open windows**</p>
-<p>Why do Java programmers have to wear glasses? **Because they don't C#<**</p>
+<p>What do computers and air-conditioners have in common? ***They're both useless when you open windows***</p>
+<p>Why do Java programmers have to wear glasses? **Because they don't C#**</p>
 </div>
