@@ -36,12 +36,10 @@ to my personal GitHub profile!
 <p></p>
 <img src="https://profile-counter.glitch.me/main/count.svg" alt="hit counter" align="center">
 </div>
-
+<br />
 <div align="center">
 <p>Food for thought:</p>
-<ul>
-    <li>What's the object-orientated wa to get rich? <em>Inheritence</em></li>
-    <li>What do computers and air-conditioners have in common? <em>They're both useless when you open windows</em></li>
-    <li>Why do Java programmers have to wear glasses? <em>Because they don't C#</em></li>
-</ul>
+<p>>What's the object-orientated wa to get rich? <em>Inheritence</em></p>
+<p>What do computers and air-conditioners have in common? <em>They're both useless when you open windows</em></p>
+<p>Why do Java programmers have to wear glasses? <em>Because they don't C#</em></p>
 </div>
