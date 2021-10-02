@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="https://anrilombard.com">Visit my personal homepage
+<a href="https://anrilombard.com">Visit my website
 <img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -26,7 +26,7 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<p>Have a good day!</p>
+<p>Have an awesome day!</p>
 <div>
 <img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/smile.gif" alt="Smiley" align="center">
 </div>
@@ -35,4 +35,13 @@ to my personal GitHub profile!
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/main/count.svg" alt="hit counter" align="center">
+</div>
+
+<div align="center">
+<p>Food for thought:</p>
+<ul>
+    <li>What's the object-orientated wa to get rich? <em>Inheritence</em></li>
+    <li>What do computers and air-conditioners have in common? <em>They're both useless when you open windows</em></li>
+    <li>Why do Java programmers have to wear glasses? <em>Because they don't C#</em></li>
+</ul>
 </div>
