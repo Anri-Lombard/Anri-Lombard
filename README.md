@@ -38,8 +38,8 @@ to my personal GitHub profile!
 </div>
 <br />
 <div align="center">
-<p>Food for thought:</p>
-<p>What's the object-orientated way to get rich? <em>Inheritance</em></p>
-<p>What do computers and air-conditioners have in common? <i>They're both useless when you open windows</i></p>
-<p>Why do Java programmers have to wear glasses? <strong>Because they don't C#</strong></p>
+<p><u>Food for thought:</u></p>
+<p><strong>What's the object-orientated way to get rich?</strong> <em>Inheritance</em></p>
+<p><strong>What do computers and air-conditioners have in common?</strong> <em>They're both useless when you open windows</em></p>
+<p><strong>Why do Java programmers have to wear glasses?</strong> <em>Because they don't C#</em></p>
 </div>
