@@ -26,7 +26,7 @@ you beautiful thang!
 </div>
 
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&cover_image=true&theme=default&bar_color=16e5e1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&cover_image=true&theme=default&bar_color=16e5e1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&redirect=true)
 </div>
 
 <div align="center">
