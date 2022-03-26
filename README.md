@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+you beautiful thang!
 </div>
 
 <h3 align="center">
-<a href="https://anrilombard.com">Visit my website
+<a href="https://anrilombard.com">Feast your eyes on this website - if you wanna (if it's good, I built it; if not, eew :D)
 <img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -19,17 +19,14 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/Anri-Lombard/Anri-Lombard/issues"><img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
-
-<hr>
-
-<div align="center">
-<p>Have an awesome day!</p>
+<p>Thanks for gifting this world with you presence :)</p>
 <div>
 <img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/smile.gif" alt="Smiley" align="center">
 </div>
+</div>
+
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&cover_image=true&theme=default&bar_color=16e5e1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&redirect=true)
 </div>
 
 <div align="center">
