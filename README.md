@@ -24,9 +24,6 @@ you beautiful thang!
 <img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/smile.gif" alt="Smiley" align="center">
 </div>
 <br />
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mcopooyur4dxa4nudcupvsyio4&redirect=true)
   
 </div>
 
