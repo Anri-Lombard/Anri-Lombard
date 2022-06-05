@@ -1,6 +1,4 @@
-<div align="center">
-  Hi!
-</div>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50px"/>, I'm Anri Lombard</h1>
 
 <br>
 <h4 align="center">I live on: </h4>
