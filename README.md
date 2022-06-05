@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-you beautiful thang!
+Click on the Earth to see a website built by my human
 </div>
 
 <h3 align="center">
