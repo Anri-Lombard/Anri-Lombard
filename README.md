@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/fan-1.gif" alt="Fan" align="center">
+  Hi!
 </div>
 
-<div align="center">
-<img src="https://github.com/Anri-Lombard/Anri-Lombard/raw/main/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
+<br>
+<h4 align="center">I live on: </h4>
+<p align="center"><img align="center" src="earth.gif" alt="earth" width="100px"></p>
+<br>
 
 <div align="center">
 Click on the Earth to see a website built by my human
