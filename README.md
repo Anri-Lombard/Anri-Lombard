@@ -13,7 +13,6 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/main/count.svg" alt="hit counter" align="center"><br />
+  <img src="https://profile-counter.glitch.me/main/count.svg" alt="hit counter" align="center">
 </div>
 <br />
-![Profile Views](https://komarev.com/ghpvc/?username=Anri-Lombard)
