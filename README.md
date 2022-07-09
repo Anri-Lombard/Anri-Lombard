@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   I live on this big hunk of clay with other humans.<br />
-  Together, we collectively make life almost as good as Anime. Almost
+  Together, we collectively make life almost as good as Sci-fi books. Almost.
 </p>
 <p align="center"><img align="center" src="earth.gif" alt="earth" width="100px"></p>
 <br>
