@@ -1,7 +1,7 @@
 ```ts
 me: Robot = {
   name: "Anri Lombard",
-  occupation: ["Student", "Programmer"],
+  occupation: ["Student", "Programmer", "Intern"],
   interests: [
     "Directing AI to assist in adding love to the world, reduce or revert it's 
       ripping of the already-large wealth gap, and to make sure AI shopping trolleys 
