@@ -14,6 +14,8 @@ me: Robot = {
       Jeff Bezos, Tim Cook, Steve Jobs, and Sam Bankman-Fried who accumulate wealth as 
       a result of the direct and possitive impact they have on the world",
     "Seeing attractive destinations with close friends",
+    "Listening to Lex Friedman, Joe Rogan, and Andrew Huberman podcasts",
+    "Working out",
     "Programming as often as possible"
   ],
   dislikes: "addiction in any form"
