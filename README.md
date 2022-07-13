@@ -18,7 +18,6 @@ me: Robot = {
     "Working out",
     "Programming as often as possible"
   ],
-  dislikes: ["addiction in any form", "especially youtube"],
   favoriteTech: "React.js"
 }
 ```
