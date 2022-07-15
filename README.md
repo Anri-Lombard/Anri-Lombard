@@ -23,6 +23,7 @@ me: Robot = {
     "machine/deep learing - ironic, right?",
     "full stack web/app development",
     "blockchain development",
-    "contributing open source"
+    "contributing open source",
+    "mathematical statistics"
 }
 ```
