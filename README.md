@@ -18,6 +18,11 @@ me: Robot = {
     "Working out",
     "Programming as often as possible"
   ],
-  favoriteTech: "React.js"
+  favoriteTech: "React.js",
+  learning: [
+    "machine/deep learing - ironic, right?",
+    "full stack web/app development",
+    "blockchain development",
+    "contributing open source"
 }
 ```
