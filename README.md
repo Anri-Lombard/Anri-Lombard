@@ -1,5 +1,5 @@
 ```ts
-me: Robot = {
+me: Humanoid = {
   name: "Anri Lombard",
   occupation: ["Student", "Programmer", "Intern"],
   interests: [
