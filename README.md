@@ -1,4 +1,4 @@
-I'm *Anri*. I do to bugs what Hulk does to Loki.
+I'm **Anri**. I do to bugs what Hulk does to Loki.
 
 <details>
 <summary>Eloboration</summary>
