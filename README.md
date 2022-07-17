@@ -1,3 +1,7 @@
+I'm _Anri_. I do to bugs what Hulk does to Loki.
+
+<details>
+<summary>Eloboration</summary>
 ```ts
 me: Humanoid = {
   name: "Anri Lombard",
@@ -27,3 +31,4 @@ me: Humanoid = {
     "mathematical statistics"
 }
 ```
+</details>
