@@ -25,7 +25,7 @@ me: Humanoid = {
   ],
   favoriteTech: "Next.js",
   learning: [
-    "machine/deep learing - ironic, right?",
+    "machine/deep learning - ironic, right? (learning learning)",
     "full stack web/app development",
     "blockchain development",
     "contributing open source",
