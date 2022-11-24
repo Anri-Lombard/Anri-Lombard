@@ -6,7 +6,7 @@ I'm **Anri**. I do to bugs what Hulk does to Loki.
 ```ts
 me: Humanoid = {
   name: "Anri Lombard",
-  occupation: ["Student", "Programmer", "Intern"],
+  occupation: ["Student", "Programmer", "Engineer"],
   interests: [
     "Directing AI to assist in adding love to the world, reduce or revert it's 
       ripping of the already-large wealth gap, and to make sure AI shopping trolleys 
