@@ -16,7 +16,7 @@ me: Humanoid = {
     "Improving study skills and habits",
     "Studying statistics applied to machine learning in particular",
     "Studying entrepreneurs like Elon Musk, Satya Nadella, Bill Gates, Sundar Pichai, 
-      Jeff Bezos, Tim Cook, Steve Jobs, and Sam Bankman-Fried who accumulate wealth as 
+      Jeff Bezos, Tim Cook, Steve Jobs, and Sam CZ who accumulate wealth as 
       a result of the direct and possitive impact they have on the world",
     "Seeing attractive destinations with close friends",
     "Listening to Lex Friedman, Joe Rogan, and Andrew Huberman podcasts",
