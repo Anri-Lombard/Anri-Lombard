@@ -23,7 +23,7 @@ me: Humanoid = {
     "Working out",
     "Programming as often as possible"
   ],
-  favoriteTech: "Next.js",
+  favoriteTech: "Python",
   learning: [
     "machine/deep learning - ironic, right? (learning learning)",
     "full stack web/app development",
