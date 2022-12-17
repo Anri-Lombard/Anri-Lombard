@@ -1,6 +1,6 @@
 I'm **Anri**. I do to bugs what Hulk does to Loki.
 
-<iframe src="https://embed.lottiefiles.com/animation/127848"></iframe>
+![Animation](https://assets7.lottiefiles.com/packages/lf20_Au6z826BEy.json)
 
 <details>
 <summary>Eloboration</summary>
