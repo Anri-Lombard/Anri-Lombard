@@ -1,6 +1,8 @@
 I'm **Anri**. I do to bugs what Hulk does to Loki.
 
-![Animation](happy-spaceman.gif)
+<div style="margin:auto;align-self:center">
+  ![Animation](coding.gif)
+</div>
 
 <details>
 <summary>Eloboration</summary>
