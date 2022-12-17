@@ -1,7 +1,7 @@
 I'm **Anri**. I do to bugs what Hulk does to Loki.
 
 <div style="margin:auto;align-self:center">
-  ![Animation](coding.gif)
+  <img src="coding.gif" />
 </div>
 
 <details>
