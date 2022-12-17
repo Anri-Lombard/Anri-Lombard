@@ -1,6 +1,6 @@
 I'm **Anri**. I do to bugs what Hulk does to Loki.
 
-<div style="margin:auto;align-self:center">
+<div style="margin:auto;display:block">
   <img src="coding.gif" />
 </div>
 
