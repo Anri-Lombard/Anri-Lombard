@@ -10,24 +10,34 @@ Hi, I'm Anri Lombard, a passionate student, programmer, and engineer who loves u
 - Add love to the world
 - Reduce or revert the widening wealth gap
 - Implement AI shopping trolleys
+
 💻 Contributing to open-source projects
+
 📚 Reading:
 - Science fiction
 - Biology
 - Psychology
 - Philosophy
+
 🧠 Enhancing study skills and habits
+
 📈 Studying:
 - Statistics, with a focus on machine learning applications
+
 🌍 Exploring beautiful destinations with close friends
+
 🎧 Listening to podcasts, including:
 - Lex Friedman
 - Joe Rogan
 - Andrew Huberman
+
 🏋️‍♂️ Working out
+
 💾 Programming as often as possible
+
 Favorite Technologies
 - 🐍 Python
+
 What I'm Learning
 🧠 Machine/deep learning (learning learning, how ironic!)
 🌐 Full-stack web/app development
