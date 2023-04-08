@@ -38,11 +38,11 @@ Hi, I'm Anri Lombard, a passionate student, programmer, and engineer who loves u
 Favorite Technologies
 - 🐍 Python
 
-What I'm Learning
-🧠 Machine/deep learning (learning learning, how ironic!)
-🌐 Full-stack web/app development
-🔗 Blockchain development
-🌟 Contributing to open source
-📊 Mathematical statistics
+What I'm Learning:
+- 🧠 Machine/deep learning (learning learning, how ironic!)
+- 🌐 Full-stack web/app development
+- 🔗 Blockchain development
+- 🌟 Contributing to open source
+- 📊 Mathematical statistics
 
 </details>
