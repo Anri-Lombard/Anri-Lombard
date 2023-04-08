@@ -3,34 +3,36 @@ I'm **Anri**. I do to bugs what Hulk does to Loki.
 <details>
 <summary>Eloboration</summary>
 
-```ts
-me: Humanoid = {
-  name: "Anri Lombard",
-  occupation: ["Student", "Programmer", "Engineer"],
-  interests: [
-    "Directing AI to assist in adding love to the world, reduce or revert it's 
-      ripping of the already-large wealth gap, and to make sure AI shopping trolleys 
-      become a thing",
-    "Contributing Open Source",
-    "Reading science fiction, biology, psychology, and philosophy books",
-    "Improving study skills and habits",
-    "Studying statistics applied to machine learning in particular",
-    "Studying entrepreneurs like Elon Musk, Satya Nadella, Bill Gates, Sundar Pichai, 
-      Jeff Bezos, Tim Cook, Steve Jobs, and Jimmy Donaldson who accumulate wealth as 
-      a result of the direct and possitive impact they have on the world",
-    "Seeing attractive destinations with close friends",
-    "Listening to Lex Friedman, Joe Rogan, and Andrew Huberman podcasts",
-    "Working out",
-    "Programming as often as possible"
-  ],
-  favoriteTech: "Python",
-  learning: [
-    "machine/deep learning - ironic, right? (learning learning)",
-    "full stack web/app development",
-    "blockchain development",
-    "contributing open source",
-    "mathematical statistics"
-}
-```
+Hi, I'm Anri Lombard, a passionate student, programmer, and engineer who loves using technology to make a positive impact on the world. I'm enthusiastic about exploring diverse areas within the realm of software and AI.
+
+# My Interests
+🤖 Directing AI to:
+- Add love to the world
+- Reduce or revert the widening wealth gap
+- Implement AI shopping trolleys
+💻 Contributing to open-source projects
+📚 Reading:
+- Science fiction
+- Biology
+- Psychology
+- Philosophy
+🧠 Enhancing study skills and habits
+📈 Studying:
+- Statistics, with a focus on machine learning applications
+🌍 Exploring beautiful destinations with close friends
+🎧 Listening to podcasts, including:
+- Lex Friedman
+- Joe Rogan
+- Andrew Huberman
+🏋️‍♂️ Working out
+💾 Programming as often as possible
+Favorite Technologies
+- 🐍 Python
+What I'm Learning
+🧠 Machine/deep learning (learning learning, how ironic!)
+🌐 Full-stack web/app development
+🔗 Blockchain development
+🌟 Contributing to open source
+📊 Mathematical statistics
 
 </details>
