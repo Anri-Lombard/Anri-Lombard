@@ -3,46 +3,19 @@ I'm **Anri**. I do to bugs what Hulk does to Loki.
 <details>
 <summary>Eloboration</summary>
 
-Hi, I'm Anri Lombard, a passionate student, programmer, and engineer who loves using technology to make a positive impact on the world. I'm enthusiastic about exploring diverse areas within the realm of software and AI.
+Hi, I'm Anri Lombard. A student and engineer who typically takes pride in learning difficult concepts, then applying them to useful/interesting projects. Currently, the focus is on AI-centric projects; it is a deeply impactful yet complicated field that grabs my interest.
 
-# My Interests
-🤖 Directing AI to:
-- Add love to the world
-- Reduce or revert the widening wealth gap
-- Implement AI shopping trolleys
+## 🚀 Quick Facts
 
-💻 Contributing to open-source projects
+- 🎓 Studying Statistics and Computer Science in university.
+- 🌐 Exploring Artificial Intelligence outside of the university.
+- 🎧 Avid podcast listener. Joe Rogan, Andrew Huberman, and Lex Fridman are my current favorite hosts.
+- 🏋️‍♂️ Emphasize athleticism, fitness, and health, perhaps more than most nerds.
+- 💻 Most of my time is spent studying and programming, which results in a small social media footprint (for now).
 
-📚 Reading:
-- Science fiction
-- Biology
-- Psychology
-- Philosophy
+## 📬 Get in Touch
 
-🧠 Enhancing study skills and habits
-
-📈 Studying:
-- Statistics, with a focus on machine learning applications
-
-🌍 Exploring beautiful destinations with close friends
-
-🎧 Listening to podcasts, including:
-- Lex Friedman
-- Joe Rogan
-- Andrew Huberman
-
-🏋️‍♂️ Working out
-
-💾 Programming as often as possible
-
-Favorite Technologies
-- 🐍 Python
-
-What I'm Learning:
-- 🧠 Machine/deep learning (learning learning, how ironic!)
-- 🌐 Full-stack web/app development
-- 🔗 Blockchain development
-- 🌟 Contributing to open source
-- 📊 Mathematical statistics
+- [LinkedIn](https://www.linkedin.com/in/anri-lombard-ab37ab201/)
+- [Website](https://anri-lombard-v4-anri-lombard.vercel.app/)
 
 </details>
