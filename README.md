@@ -10,6 +10,7 @@ Hi, I'm Anri Lombard. A student and engineer who typically takes pride in learni
 - 🎓 Studying Statistics and Computer Science in university.
 - 🌐 Exploring Artificial Intelligence outside of the university.
 - 🎧 Avid podcast listener. Joe Rogan, Andrew Huberman, and Lex Fridman are my current favorite hosts.
+- 📚 I read a lot.
 - 🏋️‍♂️ Emphasize athleticism, fitness, and health, perhaps more than most nerds.
 - 💻 Most of my time is spent studying and programming, which results in a small social media footprint (for now).
 
