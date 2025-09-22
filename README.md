@@ -1,7 +1,7 @@
 I'm **Anri**. I do to bugs what Hulk does to Loki.
 
 <details>
-<summary>Eloboration</summary>
+<summary>Elaboration</summary>
 <br/>
 Hi, I'm Anri Lombard. A student and engineer who typically takes pride in learning difficult concepts, then applying them to useful/interesting projects. Currently, the focus is on AI-centric projects; it is a deeply impactful yet complicated field that grabs my interest.
 
@@ -11,3 +11,11 @@ Hi, I'm Anri Lombard. A student and engineer who typically takes pride in learni
 - [Website](https://anri-lombard-v4-anri-lombard.vercel.app/)
 
 </details>
+
+---
+
+## 📊 GitHub Stats
+
+| Overall | Streak |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=Anri-Lombard&show_icons=t_
