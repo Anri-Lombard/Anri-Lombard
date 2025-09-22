@@ -18,4 +18,8 @@ Hi, I'm Anri Lombard. A student and engineer who typically takes pride in learni
 
 | Overall | Streak |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=Anri-Lombard&show_icons=t_
+| <img src="https://github-readme-stats.vercel.app/api?username=Anri-Lombard&show_icons=true&include_all_commits=true&count_private=true&line_height=28&rank_icon=github&theme=transparent&hide_border=true" alt="Anri's GitHub stats" /> | <img src="https://streak-stats.demolab.com?user=Anri-Lombard&theme=transparent&hide_border=true" alt="GitHub Streak" /> |
+
+| Top Languages | Trophies |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anri-Lombard&layout=compact&langs_count=10&card_width=360&theme=transparent&hide_border=true" alt="Top Languages" /> | <img src="https://github-profile-trophy.vercel.app/?username=Anri-Lombard&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Profile Trophies" /> |
