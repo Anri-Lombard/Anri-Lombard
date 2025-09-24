@@ -11,11 +11,3 @@ Hi, I'm Anri Lombard. A student and engineer who typically takes pride in learni
 - [Website](https://anri-lombard-v4-anri-lombard.vercel.app/)
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-| Overall |
-|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=Anri-Lombard&show_icons=true&include_all_commits=true&count_private=true&line_height=28&rank_icon=github&theme=transparent&hide_border=true" alt="Anri's GitHub stats" /> |
