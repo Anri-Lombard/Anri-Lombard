@@ -12,4 +12,4 @@ Hi, I'm Anri Lombard - a student and researcher in subfields of AI and software 
 
 </details>
 
-Work account: https://github.com/Anri-Lombard-CredeqAI
+Related account: https://github.com/Anri-Lombard-CredeqAI
