@@ -11,5 +11,3 @@ Hi, I'm Anri Lombard - a student and researcher in subfields of AI and software 
 - [Contact](https://anri-lombard.vercel.app/contact)
 
 </details>
-
-Related account: https://github.com/Anri-Lombard-CredeqAI
