@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <style>
+    .splat { transform-origin: 32px 32px; animation: pop 2.5s ease-in-out infinite; }
+    @keyframes pop { 0%,100% { transform: scale(0.94); } 50% { transform: scale(1.04); } }
+  </style>
+  <g class="splat">
+    <path fill="#4caf50" d="M32 6 L37 20 L50 10 L45 25 L60 26 L47 34 L57 46 L42 42 L40 58 L32 45 L22 57 L22 42 L7 46 L17 34 L4 26 L19 24 L14 10 L27 20 Z"/>
+    <text x="32" y="36" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="11" fill="#fff" stroke="#1b5e20" stroke-width="0.6">SMASH</text>
+  </g>
+</svg>
