@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40" width="168" height="40">
+<style>
+text { font: 600 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .moving { display: none; } }
+</style>
+<defs></defs>
+<rect x="1" y="1" width="166" height="38" rx="20" fill="#f6f8fa" stroke="#d0d7de"/><circle cx="24" cy="20" r="4" fill="#1a7f37"/><text x="92.0" y="25" text-anchor="middle">LinkedIn ↗</text>
+</svg>

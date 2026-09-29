@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 312" width="760" height="312">
+<style>
+
+.cmd { fill: #e6edf3; } .out { fill: #8b949e; } .err { fill: #f85149; } .ok { fill: #3fb950; }
+text { font: 14px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+.title { font: 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+.wig { transform-box: fill-box; transform-origin: center; animation: wig .9s ease-in-out infinite; }
+@keyframes wig { 0%,100% { transform: rotate(-12deg); } 50% { transform: rotate(12deg) translateY(-1px); } }
+.blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0; } }
+@keyframes o0 { 0%,3.12% { opacity: 0; } 3.22%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o0 { animation: o0 16s linear infinite; }
+@keyframes c0 { 0%,3.12% { transform: translateX(0); } 3.85% { transform: translateX(8.6px); } 4.52% { transform: translateX(17.2px); } 5.0% { transform: translateX(25.8px); } 5.39% { transform: translateX(34.4px); } 5.93% { transform: translateX(43.0px); } 6.4% { transform: translateX(51.6px); } 7.09% { transform: translateX(60.2px); } 7.5% { transform: translateX(68.8px); } 100% { transform: translateX(68.8px); } } .c0 { animation: c0 16s step-end infinite; }
+@keyframes o1 { 0%,9.38% { opacity: 0; } 9.48%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o1 { animation: o1 16s linear infinite; }
+@keyframes o2 { 0%,16.25% { opacity: 0; } 16.35%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o2 { animation: o2 16s linear infinite; }
+@keyframes c2 { 0%,16.25% { transform: translateX(0); } 16.9% { transform: translateX(8.6px); } 17.54% { transform: translateX(17.2px); } 17.77% { transform: translateX(25.8px); } 18.01% { transform: translateX(34.4px); } 18.6% { transform: translateX(43.0px); } 19.14% { transform: translateX(51.6px); } 19.66% { transform: translateX(60.2px); } 20.0% { transform: translateX(68.8px); } 100% { transform: translateX(68.8px); } } .c2 { animation: c2 16s step-end infinite; }
+@keyframes o3 { 0%,21.25% { opacity: 0; } 21.35%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o3 { animation: o3 16s linear infinite; }
+@keyframes eat0 { 0%,27.209999999999997% { transform: scale(1); } 27.509999999999998% { transform: scale(1.25) rotate(8deg); } 27.81%,100% { transform: scale(0); } }.eat0 { transform-box: fill-box; transform-origin: center; animation: eat0 16s ease-in infinite; }@keyframes pop0 { 0%,27.81% { opacity: 0; transform: scale(.2); } 28.009999999999998% { opacity: 1; } 30.81%,100% { opacity: 0; transform: scale(1.8); } }.pop0 { transform-box: fill-box; transform-origin: center; animation: pop0 16s ease-out infinite; }
+@keyframes eat1 { 0%,29.709999999999997% { transform: scale(1); } 30.009999999999998% { transform: scale(1.25) rotate(8deg); } 30.31%,100% { transform: scale(0); } }.eat1 { transform-box: fill-box; transform-origin: center; animation: eat1 16s ease-in infinite; }@keyframes pop1 { 0%,30.31% { opacity: 0; transform: scale(.2); } 30.509999999999998% { opacity: 1; } 33.31%,100% { opacity: 0; transform: scale(1.8); } }.pop1 { transform-box: fill-box; transform-origin: center; animation: pop1 16s ease-out infinite; }
+@keyframes eat2 { 0%,32.21% { transform: scale(1); } 32.510000000000005% { transform: scale(1.25) rotate(8deg); } 32.81%,100% { transform: scale(0); } }.eat2 { transform-box: fill-box; transform-origin: center; animation: eat2 16s ease-in infinite; }@keyframes pop2 { 0%,32.81% { opacity: 0; transform: scale(.2); } 33.010000000000005% { opacity: 1; } 35.81%,100% { opacity: 0; transform: scale(1.8); } }.pop2 { transform-box: fill-box; transform-origin: center; animation: pop2 16s ease-out infinite; }
+@keyframes cur { 0%,25.0% { opacity: 0; transform: translateX(0); } 25.62% { opacity: 1; transform: translateX(0); } 27.06% { opacity: 1; transform: translateX(11px) scaleX(1.6); } 27.81% { opacity: 1; transform: translateX(17px) scaleX(1); } 29.56% { opacity: 1; transform: translateX(37px) scaleX(1.6); } 30.31% { opacity: 1; transform: translateX(43px) scaleX(1); } 32.06% { opacity: 1; transform: translateX(63px) scaleX(1.6); } 32.81% { opacity: 1; transform: translateX(69px) scaleX(1); } 35.0% { opacity: 1; transform: translateX(95px); } 35.94%,100% { opacity: 0; transform: translateX(95px); } } .cur { transform-box: fill-box; transform-origin: left; animation: cur 16s cubic-bezier(.5,0,.3,1) infinite; }@keyframes strike { 0%,33.75% { stroke-dashoffset: 1; } 36.25%,100% { stroke-dashoffset: 0; } }.strike { stroke-dasharray: 1; animation: strike 16s ease-out infinite; }
+@keyframes o4 { 0%,37.5% { opacity: 0; } 37.6%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o4 { animation: o4 16s linear infinite; }
+@keyframes c4 { 0%,37.5% { transform: translateX(0); } 37.88% { transform: translateX(8.6px); } 38.19% { transform: translateX(17.2px); } 38.66% { transform: translateX(25.8px); } 39.0% { transform: translateX(34.4px); } 39.28% { transform: translateX(43.0px); } 39.76% { transform: translateX(51.6px); } 40.54% { transform: translateX(60.2px); } 41.25% { transform: translateX(68.8px); } 100% { transform: translateX(68.8px); } } .c4 { animation: c4 16s step-end infinite; }
+@keyframes o5 { 0%,42.5% { opacity: 0; } 42.6%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o5 { animation: o5 16s linear infinite; }
+@keyframes o6 { 0%,49.38% { opacity: 0; } 49.480000000000004%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o6 { animation: o6 16s linear infinite; }
+@keyframes c6 { 0%,49.38% { transform: translateX(0); } 49.9% { transform: translateX(8.6px); } 50.44% { transform: translateX(17.2px); } 50.83% { transform: translateX(25.8px); } 51.12% { transform: translateX(34.4px); } 51.3% { transform: translateX(43.0px); } 51.77% { transform: translateX(51.6px); } 52.16% { transform: translateX(60.2px); } 52.67% { transform: translateX(68.8px); } 53.01% { transform: translateX(77.4px); } 53.53% { transform: translateX(86.0px); } 53.82% { transform: translateX(94.6px); } 54.35% { transform: translateX(103.2px); } 54.85% { transform: translateX(111.8px); } 55.21% { transform: translateX(120.4px); } 55.62% { transform: translateX(129.0px); } 100% { transform: translateX(129.0px); } } .c6 { animation: c6 16s step-end infinite; }
+@keyframes o7 { 0%,55.62% { opacity: 0; } 55.72%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o7 { animation: o7 16s linear infinite; }
+@keyframes o8 { 0%,56.88% { opacity: 0; } 56.980000000000004%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o8 { animation: o8 16s linear infinite; }
+@keyframes o9 { 0%,61.88% { opacity: 0; } 61.980000000000004%,96% { opacity: 1; } 99%,100% { opacity: 0; } } .o9 { animation: o9 16s linear infinite; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .moving { display: none; } }
+</style>
+<defs><g id="bug" transform="scale(.75)">
+  <path d="M20 30 L10 24 M20 36 L8 36 M20 42 L10 50 M44 30 L54 24 M44 36 L56 36 M44 42 L54 50 M27 14 L22 6 M37 14 L42 6" stroke="#3b2a4d" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <ellipse cx="32" cy="38" rx="14" ry="17" fill="#6d3fa0"/><path d="M32 22 V55" stroke="#3b2a4d" stroke-width="2"/>
+  <circle cx="32" cy="19" r="8" fill="#3b2a4d"/><circle cx="29" cy="18" r="2.2" fill="#f5c542"/><circle cx="35" cy="18" r="2.2" fill="#f5c542"/>
+  <circle cx="26" cy="34" r="2.5" fill="#f5c542"/><circle cx="38" cy="42" r="2.5" fill="#f5c542"/><circle cx="27" cy="46" r="2" fill="#f5c542"/>
+</g></defs>
+<rect x="1" y="1" width="758" height="310" rx="10" fill="#161b22" stroke="#30363d"/>
+<path d="M1 36 H759" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text class="title" x="380.0" y="22" text-anchor="middle">anri@hulk: ~</text>
+<g class="o0"><text class="cmd" x="22" y="66">$ whoami</text><rect class="c0 moving" x="20" y="51" width="75" height="21" fill="#161b22"/></g>
+<g class="o1"><text class="out" x="22" y="91">Anri Lombard - engineer and researcher in AI and software development</text></g>
+<g class="o2"><text class="cmd" x="22" y="116">$ pytest</text><rect class="c2 moving" x="20" y="101" width="75" height="21" fill="#161b22"/></g>
+<g class="o3"><text class="err" x="22" y="141">✗ 3 failed</text><g transform="translate(125,120) scale(.5)"><g class="eat0"><g class="wig" style="animation-delay:-0.0s"><use href="#bug"/></g></g></g><circle class="pop0 moving" cx="137" cy="132" r="7" fill="none" stroke="#e3b341" stroke-width="1.5"/><g transform="translate(151,120) scale(.5)"><g class="eat1"><g class="wig" style="animation-delay:-0.3s"><use href="#bug"/></g></g></g><circle class="pop1 moving" cx="163" cy="132" r="7" fill="none" stroke="#e3b341" stroke-width="1.5"/><g transform="translate(177,120) scale(.5)"><g class="eat2"><g class="wig" style="animation-delay:-0.6s"><use href="#bug"/></g></g></g><circle class="pop2 moving" cx="189" cy="132" r="7" fill="none" stroke="#e3b341" stroke-width="1.5"/><rect class="cur moving" x="112" y="128" width="9" height="17" fill="#e3b341"/><path class="strike" d="M20 136 H110" pathLength="1" stroke="#f85149" stroke-width="1.5"/></g>
+<g class="o4"><text class="cmd" x="22" y="166">$ pytest</text><rect class="c4 moving" x="20" y="151" width="75" height="21" fill="#161b22"/></g>
+<g class="o5"><text class="ok" x="22" y="191">✓ 128 passed in 0.42s</text></g>
+<g class="o6"><text class="cmd" x="22" y="216">$ cat links.txt</text><rect class="c6 moving" x="20" y="201" width="135" height="21" fill="#161b22"/></g>
+<g class="o7"><text class="out" x="22" y="241">linkedin.com/in/anri-lombard-ab37ab201</text></g>
+<g class="o8"><text class="out" x="22" y="266">anri-lombard.vercel.app</text></g>
+<g class="o9"><text class="cmd" x="22" y="291">$</text><rect class="blink" x="39.2" y="278" width="8" height="17" fill="#e3b341"/></g>
+</svg>
