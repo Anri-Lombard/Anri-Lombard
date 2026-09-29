@@ -1,7 +1,13 @@
 {
   "round": 1,
-  "smashed": [],
-  "total": 0,
-  "leaderboard": {},
-  "recent": []
+  "smashed": [
+    0
+  ],
+  "total": 1,
+  "leaderboard": {
+    "Anri-Lombard": 1
+  },
+  "recent": [
+    "@Anri-Lombard smashed bug #0"
+  ]
 }
