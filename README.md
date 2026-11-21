@@ -1,8 +1,12 @@
-### Anri Lombard
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg">
+    <img src="assets/signature-light.svg" width="100%" alt="Anri Lombard. I do to bugs what Hulk does to Loki.">
+  </picture>
+</p>
 
-ML systems engineer and researcher in Cape Town. Building open-source language models, inference and evaluation tooling, and developer software.
+Building things that hold up under real load, mostly around language models, inference, and software I wish existed.
 
-- **Research:** [MzansiLM](https://github.com/Anri-Lombard/sallm) (LREC 2026) and [Mamba-SAFE](https://github.com/Anri-Lombard/Mamba-SAFE) (NeurIPS 2024 workshop)
-- **Tools:** [Tokenizer Tax](https://anri-lombard.github.io/tokentax) · [sleeptrain](https://github.com/Anri-Lombard/sleeptrain)
+Published [MzansiLM](https://github.com/Anri-Lombard/sallm) (LREC 2026) and [Mamba-SAFE](https://github.com/Anri-Lombard/Mamba-SAFE) (NeurIPS 2024 workshop).
 
 [Website](https://anri-lombard.vercel.app) · [LinkedIn](https://www.linkedin.com/in/anri-m-lombard/) · [X](https://x.com/lombard_anri) · [Email](mailto:anri.m.lombard@gmail.com)
