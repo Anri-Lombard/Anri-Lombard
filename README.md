@@ -1,21 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg">
-    <img src="assets/signature-light.svg" width="100%" alt="Anri Lombard. I do to bugs what Hulk does to Loki.">
-  </picture>
-</p>
+### Anri Lombard
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" width="100%" alt="Terminal: Anri Lombard, engineer and researcher in AI and software development. The cursor eats the bugs in a failing test run, then everything passes.">
-</picture>
+ML systems engineer and researcher in Cape Town. Building open-source language models, inference and evaluation tooling, and developer software.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anri-lombard-ab37ab201/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
-  <a href="https://anri-lombard.vercel.app/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg"><img src="assets/btn-contact-light.svg" alt="Get in touch"></picture></a>
-</p>
+- **Research:** [MzansiLM](https://github.com/Anri-Lombard/sallm) (LREC 2026) and [Mamba-SAFE](https://github.com/Anri-Lombard/Mamba-SAFE) (NeurIPS 2024 workshop)
+- **Tools:** [Tokenizer Tax](https://anri-lombard.github.io/tokentax) · [sleeptrain](https://github.com/Anri-Lombard/sleeptrain)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
-  <img src="assets/graph-light.svg" width="100%" alt="My contribution graph, with a green fist smashing the busiest days">
-</picture>
+[Website](https://anri-lombard.vercel.app) · [LinkedIn](https://www.linkedin.com/in/anri-m-lombard/) · [X](https://x.com/lombard_anri) · [Email](mailto:anri.m.lombard@gmail.com)
